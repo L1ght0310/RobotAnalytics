@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="Api/Api.csproj" />
+    <Project Path="Communication/Communication.csproj" />
+    <Project Path="Contracts/Contracts.csproj" />
+    <Project Path="DataAccess/DataAccess.csproj" />
+    <Project Path="DeviceSimulator/DeviceSimulator.csproj" />
+    <Project Path="LinearAlgebra/LinearAlgebra.csproj" />
+    <Project Path="RobotAnalytics.Domain/Domain.csproj" />
+    <Project Path="RobotController/RobotController.csproj" />
+    <Project Path="Statistics/Statistics.csproj" />
+  </Folder>
+  <Folder Name="/src/tests/" />
+</Solution>
