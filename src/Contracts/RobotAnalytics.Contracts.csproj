@@ -7,7 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\RobotAnalytics.Domain\Domain.csproj" />
+    <ProjectReference Include="..\Domain\RobotAnalytics.Domain.csproj" />
   </ItemGroup>
 
 </Project>

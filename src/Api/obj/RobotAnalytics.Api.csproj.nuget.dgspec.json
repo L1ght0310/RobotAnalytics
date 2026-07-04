@@ -32,14 +32,7 @@
           "net8.0": {
             "framework": "net8.0",
             "targetAlias": "net8.0",
-            "projectReferences": {
-              "D:\\C#\\RobotAnalytics\\src\\Contracts\\Contracts.csproj": {
-                "projectPath": "D:\\C#\\RobotAnalytics\\src\\Contracts\\Contracts.csproj"
-              },
-              "D:\\C#\\RobotAnalytics\\src\\RobotController\\RobotController.csproj": {
-                "projectPath": "D:\\C#\\RobotAnalytics\\src\\RobotController\\RobotController.csproj"
-              }
-            }
+            "projectReferences": {}
           }
         },
         "warningProperties": {

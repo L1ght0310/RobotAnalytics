@@ -7,8 +7,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\LinearAlgebra\LinearAlgebra.csproj" />
-    <ProjectReference Include="..\RobotAnalytics.Domain\Domain.csproj" />
+    <ProjectReference Include="..\Domain\RobotAnalytics.Domain.csproj" />
+    <ProjectReference Include="..\LinearAlgebra\RobotAnalytics.LinearAlgebra.csproj" />
   </ItemGroup>
 
 </Project>

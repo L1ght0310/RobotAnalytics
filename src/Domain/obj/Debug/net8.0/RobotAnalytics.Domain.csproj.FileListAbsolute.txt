@@ -1,0 +1,12 @@
+D:\C#\RobotAnalytics\src\Domain\bin\Debug\net8.0\RobotAnalytics.Domain.deps.json
+D:\C#\RobotAnalytics\src\Domain\bin\Debug\net8.0\RobotAnalytics.Domain.dll
+D:\C#\RobotAnalytics\src\Domain\bin\Debug\net8.0\RobotAnalytics.Domain.pdb
+D:\C#\RobotAnalytics\src\Domain\obj\Debug\net8.0\RobotAnalytics.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\RobotAnalytics\src\Domain\obj\Debug\net8.0\RobotAnalytics.Domain.AssemblyInfoInputs.cache
+D:\C#\RobotAnalytics\src\Domain\obj\Debug\net8.0\RobotAnalytics.Domain.AssemblyInfo.cs
+D:\C#\RobotAnalytics\src\Domain\obj\Debug\net8.0\RobotAnalytics.Domain.csproj.CoreCompileInputs.cache
+D:\C#\RobotAnalytics\src\Domain\obj\Debug\net8.0\RobotAnalytics.Domain.sourcelink.json
+D:\C#\RobotAnalytics\src\Domain\obj\Debug\net8.0\RobotAnalytics.Domain.dll
+D:\C#\RobotAnalytics\src\Domain\obj\Debug\net8.0\refint\RobotAnalytics.Domain.dll
+D:\C#\RobotAnalytics\src\Domain\obj\Debug\net8.0\RobotAnalytics.Domain.pdb
+D:\C#\RobotAnalytics\src\Domain\obj\Debug\net8.0\ref\RobotAnalytics.Domain.dll

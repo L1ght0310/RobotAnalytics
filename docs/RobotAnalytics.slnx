@@ -1,14 +1,11 @@
 <Solution>
-  <Folder Name="/src/">
-    <Project Path="Api/Api.csproj" />
-    <Project Path="Communication/Communication.csproj" />
-    <Project Path="Contracts/Contracts.csproj" />
-    <Project Path="DataAccess/DataAccess.csproj" />
-    <Project Path="DeviceSimulator/DeviceSimulator.csproj" />
-    <Project Path="LinearAlgebra/LinearAlgebra.csproj" />
-    <Project Path="RobotAnalytics.Domain/Domain.csproj" />
-    <Project Path="RobotController/RobotController.csproj" />
-    <Project Path="Statistics/Statistics.csproj" />
-  </Folder>
-  <Folder Name="/src/tests/" />
+  <Project Path="../src/Api/RobotAnalytics.Api.csproj" />
+  <Project Path="../src/Application/RobotAnalytics.Application.csproj" />
+  <Project Path="../src/Contracts/RobotAnalytics.Contracts.csproj" />
+  <Project Path="../src/DataAccess/RobotAnalytics.DataAccess.csproj" />
+  <Project Path="../src/DeviceSimulator/RobotAnalytics.RobotAccess.csproj" />
+  <Project Path="../src/Domain/RobotAnalytics.Domain.csproj" />
+  <Project Path="../src/LinearAlgebra/RobotAnalytics.LinearAlgebra.csproj" />
+  <Project Path="../src/Statistics/RobotAnalytics.Statistics.csproj" />
+  <Project Path="RobotController/RobotAnalytics.RobotController.csproj" Id="6cedb86f-424c-4fef-b23f-8cae60577dbb" />
 </Solution>
