@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "dgSpecHash": "YdFxFl1AzBM=",
+  "success": false,
+  "projectFilePath": "D:\\C#\\RobotAnalytics\\src\\DeviceSimulator\\RobotAnalytics.RobotAccess.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "プロジェクト 'D:\\C#\\RobotAnalytics\\src\\Contracts\\Contracts.csproj' が見つかりません。プロジェクト参照が有効であり、プロジェクト ファイルが存在することを確認してください。",
+      "projectPath": "D:\\C#\\RobotAnalytics\\src\\DeviceSimulator\\RobotAnalytics.RobotAccess.csproj",
+      "filePath": "D:\\C#\\RobotAnalytics\\src\\DeviceSimulator\\RobotAnalytics.RobotAccess.csproj",
+      "libraryId": "D:\\C#\\RobotAnalytics\\src\\Contracts\\Contracts.csproj",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "プロジェクト 'D:\\C#\\RobotAnalytics\\src\\Communication\\Communication.csproj' が見つかりません。プロジェクト参照が有効であり、プロジェクト ファイルが存在することを確認してください。",
+      "projectPath": "D:\\C#\\RobotAnalytics\\src\\DeviceSimulator\\RobotAnalytics.RobotAccess.csproj",
+      "filePath": "D:\\C#\\RobotAnalytics\\src\\DeviceSimulator\\RobotAnalytics.RobotAccess.csproj",
+      "libraryId": "D:\\C#\\RobotAnalytics\\src\\Communication\\Communication.csproj",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

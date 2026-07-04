@@ -1,13 +1,45 @@
 {
   "version": 4,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "RobotAnalytics.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/RobotAnalytics.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RobotAnalytics.Domain.dll": {}
+        }
+      },
+      "RobotAnalytics.LinearAlgebra/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/RobotAnalytics.LinearAlgebra.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RobotAnalytics.LinearAlgebra.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "RobotAnalytics.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Domain/RobotAnalytics.Domain.csproj",
+      "msbuildProject": "../Domain/RobotAnalytics.Domain.csproj"
+    },
+    "RobotAnalytics.LinearAlgebra/1.0.0": {
+      "type": "project",
+      "path": "../LinearAlgebra/RobotAnalytics.LinearAlgebra.csproj",
+      "msbuildProject": "../LinearAlgebra/RobotAnalytics.LinearAlgebra.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "D:\\C#\\RobotAnalytics\\src\\LinearAlgebra\\LinearAlgebra.csproj",
-      "D:\\C#\\RobotAnalytics\\src\\RobotAnalytics.Domain\\Domain.csproj"
+      "RobotAnalytics.Domain >= 1.0.0",
+      "RobotAnalytics.LinearAlgebra >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -43,11 +75,11 @@
           "framework": "net8.0",
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\C#\\RobotAnalytics\\src\\LinearAlgebra\\LinearAlgebra.csproj": {
-              "projectPath": "D:\\C#\\RobotAnalytics\\src\\LinearAlgebra\\LinearAlgebra.csproj"
+            "D:\\C#\\RobotAnalytics\\src\\Domain\\RobotAnalytics.Domain.csproj": {
+              "projectPath": "D:\\C#\\RobotAnalytics\\src\\Domain\\RobotAnalytics.Domain.csproj"
             },
-            "D:\\C#\\RobotAnalytics\\src\\RobotAnalytics.Domain\\Domain.csproj": {
-              "projectPath": "D:\\C#\\RobotAnalytics\\src\\RobotAnalytics.Domain\\Domain.csproj"
+            "D:\\C#\\RobotAnalytics\\src\\LinearAlgebra\\RobotAnalytics.LinearAlgebra.csproj": {
+              "projectPath": "D:\\C#\\RobotAnalytics\\src\\LinearAlgebra\\RobotAnalytics.LinearAlgebra.csproj"
             }
           }
         }
@@ -87,25 +119,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301/PortableRuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "プロジェクト 'D:\\C#\\RobotAnalytics\\src\\RobotAnalytics.Domain\\Domain.csproj' が見つかりません。プロジェクト参照が有効であり、プロジェクト ファイルが存在することを確認してください。",
-      "libraryId": "D:\\C#\\RobotAnalytics\\src\\RobotAnalytics.Domain\\Domain.csproj",
-      "targetGraphs": [
-        "net8.0"
-      ]
-    },
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "プロジェクト 'D:\\C#\\RobotAnalytics\\src\\LinearAlgebra\\LinearAlgebra.csproj' が見つかりません。プロジェクト参照が有効であり、プロジェクト ファイルが存在することを確認してください。",
-      "libraryId": "D:\\C#\\RobotAnalytics\\src\\LinearAlgebra\\LinearAlgebra.csproj",
-      "targetGraphs": [
-        "net8.0"
-      ]
-    }
-  ]
+  }
 }

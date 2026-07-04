@@ -1,20 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tElTMr9LdOA=",
-  "success": false,
+  "dgSpecHash": "TJxUjTAXsz8=",
+  "success": true,
   "projectFilePath": "D:\\C#\\RobotAnalytics\\src\\Contracts\\RobotAnalytics.Contracts.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "プロジェクト 'D:\\C#\\RobotAnalytics\\src\\RobotAnalytics.Domain\\Domain.csproj' が見つかりません。プロジェクト参照が有効であり、プロジェクト ファイルが存在することを確認してください。",
-      "projectPath": "D:\\C#\\RobotAnalytics\\src\\Contracts\\RobotAnalytics.Contracts.csproj",
-      "filePath": "D:\\C#\\RobotAnalytics\\src\\Contracts\\RobotAnalytics.Contracts.csproj",
-      "libraryId": "D:\\C#\\RobotAnalytics\\src\\RobotAnalytics.Domain\\Domain.csproj",
-      "targetGraphs": [
-        "net8.0"
-      ]
-    }
-  ]
+  "logs": []
 }
