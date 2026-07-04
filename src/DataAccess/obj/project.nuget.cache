@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "dgSpecHash": "XCSjTZIZhI4=",
-  "success": true,
+  "dgSpecHash": "TjuypB26iDY=",
+  "success": false,
   "projectFilePath": "D:\\C#\\RobotAnalytics\\src\\DataAccess\\RobotAnalytics.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Hikar\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
@@ -43,5 +43,17 @@
     "C:\\Users\\Hikar\\.nuget\\packages\\system.text.encoding.codepages\\6.0.0\\system.text.encoding.codepages.6.0.0.nupkg.sha512",
     "C:\\Users\\Hikar\\.nuget\\packages\\system.threading.channels\\6.0.0\\system.threading.channels.6.0.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "プロジェクト 'D:\\C#\\RobotAnalytics\\src\\RobotAnalytics.Domain\\Domain.csproj' が見つかりません。プロジェクト参照が有効であり、プロジェクト ファイルが存在することを確認してください。",
+      "projectPath": "D:\\C#\\RobotAnalytics\\src\\DataAccess\\RobotAnalytics.DataAccess.csproj",
+      "filePath": "D:\\C#\\RobotAnalytics\\src\\DataAccess\\RobotAnalytics.DataAccess.csproj",
+      "libraryId": "D:\\C#\\RobotAnalytics\\src\\RobotAnalytics.Domain\\Domain.csproj",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
 }

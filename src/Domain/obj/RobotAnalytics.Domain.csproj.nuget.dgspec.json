@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\RobotAnalytics\\RobotAnalytics.Domain\\RobotAnalytics.Domain.csproj": {}
+    "D:\\C#\\RobotAnalytics\\src\\Domain\\RobotAnalytics.Domain.csproj": {}
   },
   "projects": {
-    "D:\\C#\\RobotAnalytics\\RobotAnalytics.Domain\\RobotAnalytics.Domain.csproj": {
+    "D:\\C#\\RobotAnalytics\\src\\Domain\\RobotAnalytics.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\RobotAnalytics\\RobotAnalytics.Domain\\RobotAnalytics.Domain.csproj",
+        "projectUniqueName": "D:\\C#\\RobotAnalytics\\src\\Domain\\RobotAnalytics.Domain.csproj",
         "projectName": "RobotAnalytics.Domain",
-        "projectPath": "D:\\C#\\RobotAnalytics\\RobotAnalytics.Domain\\RobotAnalytics.Domain.csproj",
+        "projectPath": "D:\\C#\\RobotAnalytics\\src\\Domain\\RobotAnalytics.Domain.csproj",
         "packagesPath": "C:\\Users\\Hikar\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\RobotAnalytics\\RobotAnalytics.Domain\\obj\\",
+        "outputPath": "D:\\C#\\RobotAnalytics\\src\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

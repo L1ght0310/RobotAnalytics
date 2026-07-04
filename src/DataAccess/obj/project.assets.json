@@ -2104,6 +2104,7 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "D:\\C#\\RobotAnalytics\\src\\RobotAnalytics.Domain\\Domain.csproj",
       "Microsoft.EntityFrameworkCore >= 8.0.28",
       "Microsoft.EntityFrameworkCore.Design >= 8.0.28",
       "Npgsql.EntityFrameworkCore.PostgreSQL >= 8.0.11"
@@ -2141,7 +2142,11 @@
         "net8.0": {
           "framework": "net8.0",
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\C#\\RobotAnalytics\\src\\RobotAnalytics.Domain\\Domain.csproj": {
+              "projectPath": "D:\\C#\\RobotAnalytics\\src\\RobotAnalytics.Domain\\Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -2195,5 +2200,16 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "プロジェクト 'D:\\C#\\RobotAnalytics\\src\\RobotAnalytics.Domain\\Domain.csproj' が見つかりません。プロジェクト参照が有効であり、プロジェクト ファイルが存在することを確認してください。",
+      "libraryId": "D:\\C#\\RobotAnalytics\\src\\RobotAnalytics.Domain\\Domain.csproj",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
 }

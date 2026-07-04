@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RobotAnalytics.LinearAlgebra")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+77a65c042e2f60a6992ce41dae062647598f61f9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+411beb1e4b2ac307ec5da720e9cb13ff384ec572")]
 [assembly: System.Reflection.AssemblyProductAttribute("RobotAnalytics.LinearAlgebra")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RobotAnalytics.LinearAlgebra")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

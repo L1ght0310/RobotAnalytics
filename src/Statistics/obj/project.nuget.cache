@@ -1,8 +1,31 @@
 {
   "version": 2,
-  "dgSpecHash": "/vVRx6IIDmc=",
-  "success": true,
+  "dgSpecHash": "5lZEb2AciJU=",
+  "success": false,
   "projectFilePath": "D:\\C#\\RobotAnalytics\\src\\Statistics\\RobotAnalytics.Statistics.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "プロジェクト 'D:\\C#\\RobotAnalytics\\src\\RobotAnalytics.Domain\\Domain.csproj' が見つかりません。プロジェクト参照が有効であり、プロジェクト ファイルが存在することを確認してください。",
+      "projectPath": "D:\\C#\\RobotAnalytics\\src\\Statistics\\RobotAnalytics.Statistics.csproj",
+      "filePath": "D:\\C#\\RobotAnalytics\\src\\Statistics\\RobotAnalytics.Statistics.csproj",
+      "libraryId": "D:\\C#\\RobotAnalytics\\src\\RobotAnalytics.Domain\\Domain.csproj",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "プロジェクト 'D:\\C#\\RobotAnalytics\\src\\LinearAlgebra\\LinearAlgebra.csproj' が見つかりません。プロジェクト参照が有効であり、プロジェクト ファイルが存在することを確認してください。",
+      "projectPath": "D:\\C#\\RobotAnalytics\\src\\Statistics\\RobotAnalytics.Statistics.csproj",
+      "filePath": "D:\\C#\\RobotAnalytics\\src\\Statistics\\RobotAnalytics.Statistics.csproj",
+      "libraryId": "D:\\C#\\RobotAnalytics\\src\\LinearAlgebra\\LinearAlgebra.csproj",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
 }

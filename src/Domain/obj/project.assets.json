@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#\\RobotAnalytics\\src\\Domain\\Domain.csproj",
-      "projectName": "Domain",
-      "projectPath": "D:\\C#\\RobotAnalytics\\src\\Domain\\Domain.csproj",
+      "projectUniqueName": "D:\\C#\\RobotAnalytics\\src\\Domain\\RobotAnalytics.Domain.csproj",
+      "projectName": "RobotAnalytics.Domain",
+      "projectPath": "D:\\C#\\RobotAnalytics\\src\\Domain\\RobotAnalytics.Domain.csproj",
       "packagesPath": "C:\\Users\\Hikar\\.nuget\\packages\\",
       "outputPath": "D:\\C#\\RobotAnalytics\\src\\Domain\\obj\\",
       "projectStyle": "PackageReference",
