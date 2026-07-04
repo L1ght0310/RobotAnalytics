@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\RobotAnalytics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D819584-4EC2-52ED-CD78-AA7BA4C26214}|Contracts\\Contracts.csproj|d:\\c#\\robotanalytics\\contracts\\irobotdataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D819584-4EC2-52ED-CD78-AA7BA4C26214}|Contracts\\Contracts.csproj|solutionrelative:contracts\\irobotdataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD769DE9-E769-172A-C53F-807F1C96E4EC}|RobotAnalytics.Domain\\Domain.csproj|d:\\c#\\robotanalytics\\robotanalytics.domain\\robotstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD769DE9-E769-172A-C53F-807F1C96E4EC}|RobotAnalytics.Domain\\Domain.csproj|solutionrelative:robotanalytics.domain\\robotstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IRobotDataProvider.cs",
+              "DocumentMoniker": "D:\\C#\\RobotAnalytics\\Contracts\\IRobotDataProvider.cs",
+              "RelativeDocumentMoniker": "Contracts\\IRobotDataProvider.cs",
+              "ToolTip": "D:\\C#\\RobotAnalytics\\Contracts\\IRobotDataProvider.cs",
+              "RelativeToolTip": "Contracts\\IRobotDataProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T08:30:08.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RobotState.cs",
+              "DocumentMoniker": "D:\\C#\\RobotAnalytics\\RobotAnalytics.Domain\\RobotState.cs",
+              "RelativeDocumentMoniker": "RobotAnalytics.Domain\\RobotState.cs",
+              "ToolTip": "D:\\C#\\RobotAnalytics\\RobotAnalytics.Domain\\RobotState.cs",
+              "RelativeToolTip": "RobotAnalytics.Domain\\RobotState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T07:27:59.268Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
