@@ -10,4 +10,6 @@ public record RobotState
     public required double X { get; init; }
     public required double Y { get; init; }
     public required double Z { get; init; }
+
+    public double[] Joints { get; init; } = Array.Empty<double>();
 }

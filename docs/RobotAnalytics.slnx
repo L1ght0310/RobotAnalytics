@@ -7,5 +7,7 @@
   <Project Path="../src/Domain/RobotAnalytics.Domain.csproj" />
   <Project Path="../src/LinearAlgebra/RobotAnalytics.LinearAlgebra.csproj" />
   <Project Path="../src/Statistics/RobotAnalytics.Statistics.csproj" />
+  <Project Path="RobotAnalytics.Console/RobotAnalytics.Console.csproj" Id="599b4be8-046d-41b8-a70e-509ebd8438c4" />
+  <Project Path="RobotAnalytics.Infrastructure/RobotAnalytics.Infrastructure.csproj" Id="f0066513-76bb-4e87-b2b2-140c9c74b90c" />
   <Project Path="RobotController/RobotAnalytics.RobotController.csproj" Id="6cedb86f-424c-4fef-b23f-8cae60577dbb" />
 </Solution>
