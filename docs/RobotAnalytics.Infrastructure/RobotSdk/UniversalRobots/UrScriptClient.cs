@@ -1,4 +1,5 @@
-﻿using System.Net.Sockets;
+﻿using RobotAnalytics.Contracts.Commands;
+using System.Net.Sockets;
 using System.Text;
 
 public class UrScriptClient

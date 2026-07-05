@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RobotAnalytics.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b46871ee24509cb25abfd1b71ac0a4a849f543fe")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df57ca82035ad59b7d692371909525bd174c93d1")]
 [assembly: System.Reflection.AssemblyProductAttribute("RobotAnalytics.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RobotAnalytics.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

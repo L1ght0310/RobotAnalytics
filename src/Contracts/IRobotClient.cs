@@ -1,4 +1,5 @@
-﻿using RobotAnalytics.Domain;
+﻿using RobotAnalytics.Contracts.Commands;
+using RobotAnalytics.Domain;
 namespace RobotAnalytics.Contracts;
 
 public interface IRobotClient
@@ -10,5 +11,5 @@ public interface IRobotClient
 
     IAsyncEnumerable<RobotState> StreamStateAsync();
 
-    Task MoveJAsync(double[] joints);
+    Task MoveJAsync(MoveJCommand script);
 }
