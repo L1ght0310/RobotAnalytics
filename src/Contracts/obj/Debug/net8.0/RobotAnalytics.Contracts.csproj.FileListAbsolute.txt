@@ -1,0 +1,16 @@
+D:\C#\RobotAnalytics\src\Contracts\bin\Debug\net8.0\RobotAnalytics.Contracts.deps.json
+D:\C#\RobotAnalytics\src\Contracts\bin\Debug\net8.0\RobotAnalytics.Contracts.dll
+D:\C#\RobotAnalytics\src\Contracts\bin\Debug\net8.0\RobotAnalytics.Contracts.pdb
+D:\C#\RobotAnalytics\src\Contracts\bin\Debug\net8.0\RobotAnalytics.Domain.dll
+D:\C#\RobotAnalytics\src\Contracts\bin\Debug\net8.0\RobotAnalytics.Domain.pdb
+D:\C#\RobotAnalytics\src\Contracts\obj\Debug\net8.0\RobotAnalytics.Contracts.csproj.AssemblyReference.cache
+D:\C#\RobotAnalytics\src\Contracts\obj\Debug\net8.0\RobotAnalytics.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\RobotAnalytics\src\Contracts\obj\Debug\net8.0\RobotAnalytics.Contracts.AssemblyInfoInputs.cache
+D:\C#\RobotAnalytics\src\Contracts\obj\Debug\net8.0\RobotAnalytics.Contracts.AssemblyInfo.cs
+D:\C#\RobotAnalytics\src\Contracts\obj\Debug\net8.0\RobotAnalytics.Contracts.csproj.CoreCompileInputs.cache
+D:\C#\RobotAnalytics\src\Contracts\obj\Debug\net8.0\RobotAnalytics.Contracts.sourcelink.json
+D:\C#\RobotAnalytics\src\Contracts\obj\Debug\net8.0\RobotAna.0DFB4B4D.Up2Date
+D:\C#\RobotAnalytics\src\Contracts\obj\Debug\net8.0\RobotAnalytics.Contracts.dll
+D:\C#\RobotAnalytics\src\Contracts\obj\Debug\net8.0\refint\RobotAnalytics.Contracts.dll
+D:\C#\RobotAnalytics\src\Contracts\obj\Debug\net8.0\RobotAnalytics.Contracts.pdb
+D:\C#\RobotAnalytics\src\Contracts\obj\Debug\net8.0\ref\RobotAnalytics.Contracts.dll

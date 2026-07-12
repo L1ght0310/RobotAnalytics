@@ -1,0 +1,55 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "RobotAnalytics.Application/1.0.0": {
+        "dependencies": {
+          "RobotAnalytics.Contracts": "1.0.0"
+        },
+        "runtime": {
+          "RobotAnalytics.Application.dll": {}
+        }
+      },
+      "RobotAnalytics.Contracts/1.0.0": {
+        "dependencies": {
+          "RobotAnalytics.Domain": "1.0.0"
+        },
+        "runtime": {
+          "RobotAnalytics.Contracts.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "RobotAnalytics.Domain/1.0.0": {
+        "runtime": {
+          "RobotAnalytics.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RobotAnalytics.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RobotAnalytics.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RobotAnalytics.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
