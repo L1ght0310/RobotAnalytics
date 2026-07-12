@@ -1,6 +1,13 @@
+using RobotAnalytics.Application.UseCases;
+using RobotAnalytics.Contracts;
+using RobotAnalytics.Infrastructure.RobotSdk.UniversalRobots;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+builder.Services.AddScoped<MoveRobotUseCase>();
+builder.Services.AddScoped<IRobotClient, UniversalRobotClient>();
+builder.Services.AddScoped<UrScriptClient>();
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle

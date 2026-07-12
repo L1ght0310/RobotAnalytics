@@ -11,7 +11,8 @@
   </ItemGroup>
 
   <ItemGroup>
-
+    <ProjectReference Include="..\..\docs\RobotAnalytics.Infrastructure\RobotAnalytics.Infrastructure.csproj" />
+    <ProjectReference Include="..\Application\RobotAnalytics.Application.csproj" />
   </ItemGroup>
 
 </Project>
