@@ -87,6 +87,8 @@
         "type": "object",
         "properties": {
           "jointAngles": {
+            "maxItems": 6,
+            "minItems": 6,
             "type": "array",
             "items": {
               "type": "number",
@@ -95,10 +97,14 @@
             "nullable": true
           },
           "velocity": {
+            "maximum": 10,
+            "minimum": 0,
             "type": "number",
             "format": "double"
           },
           "acceleration": {
+            "maximum": 10,
+            "minimum": 0,
             "type": "number",
             "format": "double"
           }

@@ -43,3 +43,4 @@ D:\C#\RobotAnalytics\src\Api\obj\Debug\net8.0\refint\RobotAnalytics.Api.dll
 D:\C#\RobotAnalytics\src\Api\obj\Debug\net8.0\RobotAnalytics.Api.pdb
 D:\C#\RobotAnalytics\src\Api\obj\Debug\net8.0\RobotAnalytics.Api.genruntimeconfig.cache
 D:\C#\RobotAnalytics\src\Api\obj\Debug\net8.0\ref\RobotAnalytics.Api.dll
+D:\C#\RobotAnalytics\src\Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll

@@ -8,6 +8,9 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddScoped<MoveRobotUseCase>();
 builder.Services.AddScoped<IRobotClient, UniversalRobotClient>();
 builder.Services.AddScoped<UrScriptClient>();
+builder.Services.Configure<UniversalRobotOptions>(
+    builder.Configuration.GetSection("UniversalRobots")
+    );
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
